@@ -9,3 +9,4 @@ Function then counts the number of days that passed since 1.1.1984. and returns 
 It also takes in count all of the years which had 366 days (Croatian - prijestupne_godine).
 At the end of main, sentence with number of days that passed is printed on the screen (in my case it is 13742 days).
 If you want to count the number of days up to some other date with this program, just change parameters of date structure in main().
+This is all written in C as a part of a test for Embedded Software Engineer position.
