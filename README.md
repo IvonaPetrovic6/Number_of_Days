@@ -1,5 +1,5 @@
 # Number_of_Days
-program counts the number of days that passed from 1.1.1984.
+Program counts the number of days that passed from 1.1.1984.
 
 In this program there's the definition of a structure datetype, which contains three parameters - dd(day), mm(month), yy(year).
 In the main function structure date is created, so we can define it's day(date.dd),  month(date.mm) and year(date.yy).
